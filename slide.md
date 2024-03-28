@@ -190,7 +190,7 @@ grub shellに入ります
 
 grub shellの次はemergency modeが出てきます
 
-![](./emergency-mode.jpeg)
+![](./assets/emergency-mode.jpeg)
 
 ここでfstabを直して(`vim /etc/fstab`など) rebootしましょう
 
