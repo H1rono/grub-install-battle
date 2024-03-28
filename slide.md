@@ -25,6 +25,8 @@ _class: title
 - Twitter: [@H1rono_K](https://twitter.com/H1rono_K)
 - [最近ようやくOAuth 2.0がほんのちょっとわかりました](https://github.com/H1rono/traq-oauth.rs)
 
+![スライドのQRコード bg 100% right:28%](./assets/qr-code.png)
+
 ---
 
 ## 注
