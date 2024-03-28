@@ -1,0 +1,8 @@
+result
+
+node_modules
+
+# プレビュー時に生成されるHTMLファイルが面倒
+*.html
+
+out

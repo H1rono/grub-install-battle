@@ -1,0 +1,19 @@
+{
+  "name": "marp-slide",
+  "version": "1.0.0",
+  "description": "template to create slide with marp-cli",
+  "main": "index.js",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4",
+    "http-server": "^14.1.0"
+  },
+  "scripts": {
+    "watch": "marp --theme ./theme/traP.css --allow-local-files -w",
+    "serve": "http-server",
+    "export": "marp --theme ./theme/traP.css --allow-local-files"
+  },
+  "keywords": [],
+  "author": "H1rono_K",
+  "private": true,
+  "license": "MIT"
+}
