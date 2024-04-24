@@ -1,7 +1,7 @@
 {
-  "name": "marp-slide",
+  "name": "grub-install-battle",
   "version": "1.0.0",
-  "description": "template to create slide with marp-cli",
+  "description": "LTスライド",
   "main": "index.js",
   "devDependencies": {
     "@marp-team/marp-cli": "^3.4",
